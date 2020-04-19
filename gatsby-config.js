@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/gatsby-simplefolio',
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,

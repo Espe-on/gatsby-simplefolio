@@ -106,7 +106,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'twitter',
-      url: 'https://twitter.com/home',
+      url: 'https://twitter.com/espe_on_',
     },
     {
       id: uuidv1(),

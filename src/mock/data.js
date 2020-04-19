@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   // img: 'profile.jpg',
   paragraphOne:
-    'I love learning new technologies, I want to make software more accessible for users and encourage people to engage with computers in a deeper way. I see my role as a software developer and engineer as to empower the people who use my software to achieve their own ends.',
-  paragraphTwo: 'I am currently on a programming bootcamp run by Softwire called Techswitch.',
+    'I love learning new technologies, I want to make software more accessible for users and encourage people to engage with computers in a deeper way. My role as a software developer and engineer is to empower the people who use my software to achieve their own ends.',
+  paragraphTwo: 'I am currently on a programming bootcamp run by Softwire called TechSwitch.',
   paragraphThree:
     'I love to work in FrontEnd web development, I enjoy the challenge of creating, deploying, and improving websites. My favourite technologies at the moment are Typescript, NextJS and SCSS',
   resume: 'https://drive.google.com/open?id=1igEuUM8gOLkmWsASdOjpZZvReFst9sRb', // if no resume, the button will not show up

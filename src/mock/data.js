@@ -97,7 +97,7 @@ export const projectsData = [
 export const contactData = {
   cta: 'Would you like to work with me?',
   btn: 'Send me an email',
-  email: 'joe@threeboys.co.uk',
+  email: 'contact@josephcrawley.dev',
 };
 
 // FOOTER DATA
@@ -119,9 +119,4 @@ export const footerData = {
       url: 'https://github.com/Espe-on/',
     },
   ],
-};
-
-// Github start/fork buttons
-export const githubButtons = {
-  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };

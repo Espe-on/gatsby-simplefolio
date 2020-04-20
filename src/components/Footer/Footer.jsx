@@ -33,7 +33,7 @@ const Footer = () => {
                 <p className="footer__text">
                     © {new Date().getFullYear()} - Template developed by{' '}
                     <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
-                        Jacobo Martínez
+                        Jacobo Martínez and edited by Joseph Crawley
                     </a>
                 </p>
             </Container>

@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  // img: 'profile.jpg',
+ img: 'profile.jpg',
   paragraphOne:
     'I love learning new technologies, I want to make software more accessible for users and encourage people to engage with computers in a deeper way. ' +
     'My role as a software developer and engineer is to empower the people who use my software to achieve their own ends.',

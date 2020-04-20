@@ -95,8 +95,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
+  cta: 'Would you like to work with me?',
+  btn: 'Send me an email',
   email: 'joe@threeboys.co.uk',
 };
 

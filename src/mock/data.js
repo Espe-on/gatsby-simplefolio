@@ -35,7 +35,9 @@ export const projectsData = [
     img: 'testswitchproject.jpg',
     title: 'TestSwitch',
     info:
-      'An online platform to run tech tests, TestSwitch is an ongoing team project by the current cohort of Techswitch, due for final release May 7th.',
+      'An online platform to run tech tests, TestSwitch is an ongoing team project by the current cohort of Techswitch, due for final release May 7th. ' +
+        'Using NextJS and Monaco Text Editor I built pages on which participants input their code to be tested. ' +
+        'This code is then taken and safely run against tests on a backend to determine if the participant has provided a correct answer.',
     info2:
       'Technologies Used: NextJS, React, Typescript, Monaco Text Editor, SASS, NPM, PostgreSQL, ASP.net Git, Github, Trello, Jest, React-Testing Library CircleCI, Heroku.',
     url: 'https://testswitch-candidate.herokuapp.com/',

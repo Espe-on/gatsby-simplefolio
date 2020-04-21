@@ -51,7 +51,7 @@ const About = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
-                      href={"https://drive.google.com/file/d/1u066e07gwpbzqJWBfUlDTD_tfvCJNDg_/view?usp=sharing"}
+                      href={"https://drive.google.com/open?id=1u066e07gwpbzqJWBfUlDTD_tfvCJNDg_"}
                     >
                       TechSwitch - Bio
                     </a>
@@ -59,7 +59,7 @@ const About = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--resume"
-                        href={"https://drive.google.com/file/d/1igEuUM8gOLkmWsASdOjpZZvReFst9sRb/view?usp=sharing"}
+                        href={"https://drive.google.com/open?id=1U0JdbgvDWM-FXcVjmpGLbPGwnH77dMKN"}
                     >
                       TechSwitch - Projects
                     </a>
@@ -67,7 +67,7 @@ const About = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--resume"
-                        href={"https://drive.google.com/open?id=1BqoiczsX9Lo91NEIfgMNw4Mogk5bmIFb"}
+                        href={"https://drive.google.com/open?id=1MZk-Dx8vAmPVZRer-kbEoTxxHGmY_1pR"}
                     >
                       C.V.
                     </a>

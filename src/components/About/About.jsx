@@ -59,7 +59,7 @@ const About = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--resume"
-                        href={"https://drive.google.com/open?id=1U0JdbgvDWM-FXcVjmpGLbPGwnH77dMKN"}
+                        href={"https://drive.google.com/open?id=1EF4utsEX0pY_jKlWWp_Is_UYkst66F9p"}
                     >
                       TechSwitch - Projects
                     </a>

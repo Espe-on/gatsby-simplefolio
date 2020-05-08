@@ -41,7 +41,7 @@ export const projectsData = [
     info2:
       'Technologies Used: NextJS, React, Typescript, Monaco Text Editor, SASS, NPM, PostgreSQL, ASP.net Git, Github, Trello, Jest, React-Testing Library CircleCI, Heroku.',
     url: 'https://testswitch-candidate.herokuapp.com/',
-    repo: 'https://github.com/techswitch-learners/testswitch-frontend-candidate', // if no repo, the button will not show up
+    repo: 'https://github.com/Espe-on/testswitch-frontend-candidate', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),
@@ -54,8 +54,8 @@ export const projectsData = [
       'In this project I used Typescript for the first time to create type definitions for the whole team for use in common components. ',
     info2:
       'Technologies Used: React, Typescript, SASS, Yarn, Git, Github, Trello, Jest, CircleCI, Heroku.',
-    url: 'https://techswitch-mars-mission.herokuapp.com/',
-    repo: 'https://github.com/techswitch-learners/mars-mission', // if no repo, the button will not show up
+    url: 'https://marsmission.josephcrawley.dev/',
+    repo: 'https://github.com/Espe-on/mars-mission', // if no repo, the button will not show up
   },
   {
     id: uuidv1(),

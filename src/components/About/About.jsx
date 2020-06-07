@@ -67,7 +67,7 @@ const About = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                         className="cta-btn cta-btn--resume"
-                        href={"https://drive.google.com/open?id=1MZk-Dx8vAmPVZRer-kbEoTxxHGmY_1pR"}
+                        href={"https://drive.google.com/open?id=17UDL-rnx2vcvX3OhtRNDNaUUD1tLf4dR"}
                     >
                       C.V.
                     </a>

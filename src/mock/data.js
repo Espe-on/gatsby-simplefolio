@@ -125,7 +125,7 @@ export const footerData = {
     {
       id: uuidv1(),
       name: 'linkedin',
-      url: 'https://www.linkedin.com/in/joseph-crawley-0895b6180/',
+      url: 'https://www.linkedin.com/in/joseph-crawley-dev/',
     },
     {
       id: uuidv1(),

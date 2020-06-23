@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I love learning new technologies, I want to make software more accessible for users and encourage people to engage with computers in a deeper way. ' +
     'My role as a software developer and engineer is to empower the people who use my software to achieve their own ends.',
-  paragraphTwo: 'I am currently on a programming bootcamp run by Softwire called TechSwitch.',
+  paragraphTwo: 'I have just completed a programming bootcamp run by Softwire called TechSwitch.',
   paragraphThree:
     'I love FrontEnd web development, I enjoy the challenge of creating, deploying, and improving websites. ' +
     'My favourite technologies at the moment are Typescript, NextJS and SCSS',
@@ -31,6 +31,18 @@ export const aboutData = {
 // PROJECTS DATA
 export const projectsData = [
   {
+    id: uuidv1(),
+    img: 'aliasartco.jpg',
+    title: 'Alias Art Co',
+    info:
+        'A ongoing project to build an online store for artists, using React, Firebase, Stripe, and Redux, intended to be used as a template for other online stores for independent artists.' +
+        'A complete shopping experience with shopping basket, accounts, payments.',
+    info2:
+        'Technologies Used: React (CRA), Redux, JavaScript, SASS, Firebase, Stripe, Yarn.',
+    url: 'https://alias-art-co.josephcrawley.dev/',
+    repo: 'https://github.com/Espe-on/alias-art-co', // if no repo, the button will not show up
+  },
+    {
     id: uuidv1(),
     img: 'testswitchproject.jpg',
     title: 'TestSwitch',

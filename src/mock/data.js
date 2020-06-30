@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'I love learning new technologies, I want to make software more accessible for users and encourage people to engage with computers in a deeper way. ' +
     'My role as a software developer and engineer is to empower the people who use my software to achieve their own ends.',
-  paragraphTwo: 'I have just completed a programming bootcamp run by Softwire called TechSwitch.',
+  paragraphTwo: 'I have just completed a programming bootcamp called TechSwitch run by Softwire.',
   paragraphThree:
     'I love FrontEnd web development, I enjoy the challenge of creating, deploying, and improving websites. ' +
     'My favourite technologies at the moment are Typescript, NextJS and SCSS',

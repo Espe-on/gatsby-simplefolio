@@ -52,7 +52,7 @@ export const projectsData = [
         'This code is then taken and safely run against tests on a backend to determine if the participant has provided a correct answer.',
     info2:
       'Technologies Used: NextJS, React, Typescript, Monaco Text Editor, SASS, NPM, PostgreSQL, ASP.net Git, Github, Trello, Jest, React-Testing Library CircleCI, Heroku.',
-    url: 'https://testswitch-candidate.herokuapp.com/',
+    url: 'https://testswitch-frontend-admin.herokuapp.com/',
     repo: 'https://github.com/Espe-on/testswitch-frontend-candidate', // if no repo, the button will not show up
   },
   {
